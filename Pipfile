@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyside2 = "==5.15.2"
+pyyaml = "*"
+pydantic = "*"
+pafy = "*"
+youtube-dl = "*"
+
+[dev-packages]
+pylint = "*"
+pytest = "*"
+
+[scripts]
+app = "python app.py"
+
+[requires]
+python_version = "3.9"
