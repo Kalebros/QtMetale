@@ -10,7 +10,7 @@ import argparse
 
 if __name__ == '__main__':
 
-    parser = argparse.ArgumentParser(description = 'Conectar con las máquinas BLUX para generar los informes')
+    parser = argparse.ArgumentParser(description = 'Reproductor de vídeos de Youtube basado en Qt for Python')
 
     parser.add_argument('--config',help='Ruta a un archivo de configuración opcional')
 
