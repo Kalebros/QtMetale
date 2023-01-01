@@ -41,7 +41,6 @@ class MainWindow(QMainWindow):
 
         self.__previousConfigFile = self.__settings.value('configFile')
         self.dialogoConfiguracion = None
-        self.dialogoInforme = None
 
         self.ui.setupUi(self)
 

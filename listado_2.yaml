@@ -1,7 +1,7 @@
 titles:
 - titulo: Hunters Moon
-  year: 2018
-  link: https://www.youtube.com/watch?v=C_ijc7A5oAc
+  year: 2021
+  link: https://www.youtube.com/watch?v=rtkaUZvMaG8
   grupo:
     nombre: Ghost
     fundacion: 2006
@@ -9,19 +9,10 @@ titles:
      - Tobias Forge (Cardinal Copia)
      - Un grupo de Ghouls Sin Nombre
   disco:
-    nombre: Prequelle
-    release: 2018
+    nombre: (SINGLE)
+    release: 2021
     tracks:
-      - Ashes
-      - Rats
-      - Faith
-      - See the Light
-      - Miasma (Instrumental)
-      - Dance Macabre
-      - Pro Memoria
-      - Witch Image
-      - Helvetesfönster
-      - Life Eternal
+      - Hunters Moon
   
 - titulo: Rats
   year: 2018
